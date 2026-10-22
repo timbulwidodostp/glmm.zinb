@@ -6,7 +6,7 @@ install.packages("remotes")
 remotes::install_github("nyiuab/NBZIMM")
 library("NBZIMM")
 # Estimate Zero-Inflated Negative Binomial Mixed Models Use glmm.zinb (NBZIMM) With (In) R Software
-glmm.zinb_ = read.csv("https://raw.githubusercontent.com/timbulwidodostp/glmm.zinb/main/glmm.zinb/glmm.zinb.csv",sep = ";")
+glmm.zinb = read.csv("https://raw.githubusercontent.com/timbulwidodostp/glmm.zinb/main/glmm.zinb/glmm.zinb.csv",sep = ";")
 glmm.zinb_Y <- glmm.zinb$glmm.zinb
 glmm.zinb_X1 <- glmm.zinb$glmm.zinb_1
 glmm.zinb_X2 <- glmm.zinb$glmm.zinb_2
