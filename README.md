@@ -1,5 +1,5 @@
 # glmm.zinb
-Zero-Inflated Negative Binomial Mixed Models Use glmm.zinb With (In) R Software
+Zero-Inflated Negative Binomial Mixed Models Use glmm.zinb (NBZIMM) With (In) R Software
 
 Olah Data Semarang
 
