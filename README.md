@@ -1,6 +1,8 @@
 # glmm.zinb
 Zero-Inflated Negative Binomial Mixed Models Use glmm.zinb (NBZIMM) With (In) R Software
 
+https://www.youtube.com/watch?v=xfhMZbnfqmY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
